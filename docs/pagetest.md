@@ -1,5 +1,5 @@
 layout: page
 title: "Nhaum"
-permalink: /Nhaum/
+permalink: /nhaum/
 
 Oizin, tudo bem ai?
